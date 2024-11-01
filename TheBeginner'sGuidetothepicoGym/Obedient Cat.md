@@ -12,7 +12,7 @@
 
 ## Overview
 <details>
-  <summary>Click to for a Simple Step By Step</summary>
+  <summary>Click for a Simple Step By Step</summary>
 1] wget https://mercury.picoctf.net/static/fb851c1858cc762bd4eed569013d7f00/flag
   
 2] cat flag
