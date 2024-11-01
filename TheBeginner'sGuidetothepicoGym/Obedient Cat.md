@@ -6,7 +6,9 @@
 
 **Challenge category** - General Skills 
 
-**Challenge points** - Easy CTF Year and Date - 2024
+**Challenge points** - Easy 
+
+**CTF Year and Date** - 2024
 
 
 ## Step 1 of 1 | Easy Peezy
